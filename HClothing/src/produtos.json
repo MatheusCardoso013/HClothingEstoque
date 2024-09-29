@@ -1,0 +1,50 @@
+[
+    {
+        "descricao": "Barcelona",
+        "url": "barcelona.png",
+        "preco": "R$150",
+        "status": "Disponível"
+    },
+    {
+        "descricao": "City",
+        "url": "city.png",
+        "preco": "R$300",
+        "status": "Indisponível"
+    },
+    {
+        "descricao": "Arsenal",
+        "url": "arsenal.png",
+        "preco": "R$150",
+        "status": "Disponível"
+    },
+    {
+        "descricao": "Ajax",
+        "url": "ajax.png",
+        "preco": "R$300",
+        "status": "Disponível"
+    },
+    {
+        "descricao": "Juventus",
+        "url": "juventus.png",
+        "preco": "R$150",
+        "status": "Disponível"
+    },
+    {
+        "descricao": "Porto",
+        "url": "porto.png",
+        "preco": "R$300",
+        "status": "Disponível"
+    },
+    {
+        "descricao": "PSG",
+        "url": "psg.png",
+        "preco": "R$150",
+        "status": "Disponível"
+    },
+    {
+        "descricao": "United",
+        "url": "united.png",
+        "preco": "R$150",
+        "status": "Indisponível"
+    }
+]
